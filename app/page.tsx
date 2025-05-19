@@ -48,7 +48,7 @@ export default function Home() {
           type="email"
           id="email"
           name="email"
-          placeholder="lewis.hamilton@gmail.com"
+          placeholder="lewis.hamilton@ferrari.com"
           required
           className="w-80 px-4 py-2 border border-gray-300 rounded-full shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
           onChange={(e) => setEmail(e.target.value)}
