@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Neptn",
-  description: "Next generation crypto exchanges platform.",
+  title: "Neptn | The next-generation crypto trading platform.",
+  description: "The next-generation crypto trading platform.",
 };
 
 export default function RootLayout({
