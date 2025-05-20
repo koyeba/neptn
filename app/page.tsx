@@ -25,7 +25,7 @@ export default function Home() {
   };
 
   return (
-    <main className="flex flex-col min-h-screen items-center justify-center bg-black text-white px-3">
+    <main className="flex flex-col min-h-svh items-center justify-center bg-black text-white px-3">
       <Image
         src="/logo.svg"
         width={150}
